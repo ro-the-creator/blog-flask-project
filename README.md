@@ -62,6 +62,10 @@ Specifically within Flask, several packages were installed that allowed for user
 - **Blinker** provides support for **Signals**.
 
 
+## Installation
+
+When fully installed and running, you can visit the blog at [http://127.0.0.1:5000/auth/login](http://127.0.0.1:5000/auth/login)!
+
 ***
 
 > [!NOTE]
